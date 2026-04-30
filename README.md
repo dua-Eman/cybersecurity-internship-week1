@@ -1,4 +1,3 @@
-# cybersecurity-internship-week1
 
 # Cybersecurity Internship - Week 1
 
