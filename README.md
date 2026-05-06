@@ -1,27 +1,71 @@
+# Cybersecurity Internship Project
 
-# Cybersecurity Internship - Week 1
+## Intern Information
+- Name: Dua Eman
+- Role: Cybersecurity Intern
+- Organization: Developer Hub Corporation
 
-## Task:
+---
 
-Security Assessment of a Web Application
+# Project Overview
 
-## Work Completed:
+This repository contains all tasks completed during the cybersecurity internship program.
 
-* Setup vulnerable Node.js application
-* Tested login and forms
-* Performed SQL Injection test
-* Performed XSS testing
-* Used OWASP ZAP scanner
-* Documented vulnerabilities
-* Added recommendations
+The internship focused on:
+- Web application vulnerability assessment
+- Security implementation in Node.js applications
+- Authentication hardening
+- Secure HTTP headers
+- Password hashing
+- Logging and monitoring
+- Basic penetration testing
+- Security documentation
 
-## Tools Used:
+---
 
-* Node.js
-* OWASP ZAP
-* Chrome Developer Tools
-* GitHub
+# Repository Structure
 
-## Submitted by:
+## Week-1
+Security Assessment and Vulnerability Testing
+- OWASP ZAP testing
+- XSS testing
+- SQL Injection testing
+- Security findings report
+
+## Week-2
+Security Implementation
+- Validator integration
+- Password hashing using bcrypt
+- JWT authentication
+- Helmet.js security headers
+
+## Week-3
+Advanced Security and Reporting
+- Winston logging
+- Security checklist
+- Penetration testing
+- Final reporting
+
+## Vulnerable-nodejs-project
+Modified vulnerable Node.js web application used throughout the internship.
+
+---
+
+# Technologies Used
+
+- Node.js
+- Express.js
+- MongoDB
+- Helmet.js
+- Validator
+- Bcrypt
+- JSON Web Token (JWT)
+- Winston
+- OWASP ZAP
+- GitHub
+
+---
+
+# Author
 
 Dua Eman
