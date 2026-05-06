@@ -1,0 +1,16 @@
+SECURITY BEST PRACTICES CHECKLIST
+
+[✓] Validate all user inputs
+[✓] Sanitize incoming data
+[✓] Use HTTPS for secure data transmission
+[✓] Hash and salt passwords using bcrypt
+[✓] Implement token-based authentication
+[✓] Use secure HTTP headers with Helmet.js
+[✓] Prevent SQL Injection using secure queries
+[✓] Restrict invalid login attempts
+[✓] Keep dependencies updated
+[✓] Store logs securely
+[✓] Avoid exposing sensitive server information
+[✓] Use secure session management
+[✓] Perform regular vulnerability assessments
+[✓] Monitor application logs regularly
